@@ -1,4 +1,4 @@
-/*
+
     Filename:       02_insert_data.sql
     Purpose:        Insert data into the database
     Instructions:
@@ -12,7 +12,7 @@
         - student_phone: 123-456-7890
 
     2. Place your insert queries below this comment
-*/	
+
 
 INSERT INTO tblStudents (student_name, student_email, student_phone)
 VALUES
